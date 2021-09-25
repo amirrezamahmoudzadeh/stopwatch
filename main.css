@@ -19,7 +19,7 @@ input,select{vertical-align:middle}
 
 .outer{
     background-color: rgb(21, 45, 73);
-    height: 50vh;
+    height: 100vh;
     display: flex;
     flex-flow: column wrap;
     align-items: center;
