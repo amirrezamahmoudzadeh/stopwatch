@@ -39,7 +39,7 @@ input,select{vertical-align:middle}
 }
 
 .inner button{
-    margin: 0 3rem;
+    margin: 0.15rem 3rem;
     width: 10rem;
     height: 10REM;
     background-color: transparent;
